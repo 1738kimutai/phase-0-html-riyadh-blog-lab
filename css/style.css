@@ -6,17 +6,19 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /* background: url(../images/backgrounds/architecture.jpg) center no-repeat; */
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  background-color: aqua;
 }
 
 .wrapper {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+ 
 }
 
 #content {
